@@ -1,0 +1,62 @@
+*{margin:0; padding:0; boder: 1px solid green;}
+
+body {
+  background-color: #669999;
+}
+.input, .input button {
+	padding: 7px;
+	margin: 20px 0 10px 0;
+}
+input {
+	border: none;
+	border-radius: 0;
+}
+button {
+	color: #141f1f;
+	background-color: #B3D3D3;
+	border: none;
+}
+button:hover {
+	background-color: #141f1f;
+	color: #B3D3D3;
+	cursor: pointer;
+}
+.item-random {
+	padding: 4px;
+	margin: 5px 0;
+}
+h2 {
+  color: #141f1f;
+  margin: 20px 0;
+}
+h4 {
+  font: bold 1.5rem/1.5 Helvetica, Verdana, sans-serif;
+  color: #141f1f;
+}
+.img-thumbnail {
+	background-color: #283e3e;
+	border-radius: 0;
+	border: none;
+}
+.wiki-img-random {
+	width: 20rem;
+}
+ p, .caption {
+  font: 200 16px/1.5 Georgia, Times New Roman, serif;
+  text-align: justify;
+	color: #141f1f;
+}
+a:hover {
+	text-decoration: none;
+}
+.row {
+	margin-bottom: 5px;
+}
+.row:hover {
+  background-color: #B3D3D3;
+  cursor: pointer;
+}
+
+.wiki-img-random {
+	display: block;
+}
